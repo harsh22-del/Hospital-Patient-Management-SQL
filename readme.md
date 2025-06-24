@@ -23,7 +23,9 @@ This project demonstrates a simple hospital management system using SQL (Postgre
 ## 🔧 Tools Used
 - PostgreSQL
 - SQL
+- git + github
 - Optional: ER Diagram tool (like dbdiagram.io)
+
 
 ## ✅ Author
 Harshal Belorkar
