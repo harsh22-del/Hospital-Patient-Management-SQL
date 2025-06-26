@@ -10,7 +10,22 @@ INSERT INTO Doctors (name, specialization, department, contact)
 VALUES 
 ('Dr. Mehta', 'Cardiologist', 'Cardiology', '9001122334'),
 ('Dr. Rani', 'Neurologist', 'Neurology', '9011223344'),
-('Dr. Joshi', 'General Physician', 'General', '9022334455');
+('Dr. Joshi', 'General Physician', 'General', '9022334455'),
+('Dr. Arjun Mehta', 'Neurology', 'Neuro Sciences', '9845123456'),
+('Dr. Riya Shah', 'Cardiology', 'Heart Center', '9876543210'),
+('Dr. Riya Shah', 'Cardiology', 'Heart Center', '9876543210'),
+('Dr. Karan Sinha', 'Orthopedics', 'Bone & Joint', '9801234567'),
+('Dr. Isha Verma', 'Dermatology', 'Skin Care', '9798123456'),
+('Dr. Rohit Nair', 'ENT', 'ENT Department', '9756123456'),
+('Dr. Aditi Patil', 'Psychiatry', 'Mental Health', '9745123456'),
+('Dr. Vikram Joshi', 'Urology', 'Urology', '9734123456'),
+('Dr. Meenal Deshmukh', 'Gynecology', 'Women’s Health', '9723123456'),
+('Dr. Harsh Vyas', 'Oncology', 'Cancer Care', '9712123456'),
+ ('Dr. Shruti Rao', 'Endocrinology', 'Hormonal Health', '9701123456'),
+ ('Dr. Manav Thakur', 'Nephrology', 'Kidney Care', '9690123456'),
+('Dr. Priya Shetty', 'Gastroenterology', 'Digestive Health', '9689123456'),
+('Dr. Nikhil Dubey', 'Ophthalmology', 'Eye Care', '9678123456'),
+('Dr. Tanya Kapoor', 'Rheumatology', 'Joint Inflammation', '9667123456');
 
 -- Appointments
 INSERT INTO Appointments (patient_id, doctor_id, appointment_date, diagnosis)
